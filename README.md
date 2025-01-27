@@ -63,7 +63,7 @@ This webpage layout is the good practice source for basic tech like semantic tag
 
 (Use this section to outline areas that you want to continue focusing on in future projects. These could be concepts you're still not completely comfortable with or techniques you found useful that you want to refine and perfect.)
 
-I faced a little bit problem in creating footer-links layout.So I arranged them in divs to have three columns. (I could either use grid properties. I my try them also. )
+I faced a little bit problem in creating footer-links layout.So I arranged them in divs to have three columns. (I could either use grid properties. I may try them also. )
 
  <div class="footer-links">
           <div>
