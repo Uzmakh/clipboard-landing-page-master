@@ -1,0 +1,228 @@
+@media (max-width: 870px) {
+    /** FOOTER */
+
+    .footer .logo {
+        width: 3.44em;
+    }
+
+    .footer .left-side {
+        gap: 2em;
+    }
+
+    .footer-links {
+        max-width: 80%;
+        display: flex;
+        flex-wrap: wrap;
+        gap: 1.38em;
+    }
+}
+
+@media (max-width: 768px) {
+    html {
+        font-size: 16px;
+    }
+
+    /** section-two */
+    .features-container .text-container {
+        gap: 1.87em;
+    }
+
+    /** section-four */
+    .additional-features {
+        max-width: 100%;
+        padding: 2rem;
+    }
+
+    /** section-five */
+    .brands {
+        flex-direction: column;
+        gap: 5em;
+    }
+
+    /** Footer  */
+    .footer .left-side {
+        gap: 2.5em;
+    }
+
+    .footer-links {
+        display: flex;
+        gap: 0.62em;
+    }
+
+    .footer-links li a {
+        font-size: 0.8rem;
+        color: var(--neutral-dark);
+        margin-left: 2rem;
+        margin-top: 1rem;
+    }
+
+    .right-side .social-icons {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        gap: 2rem;
+    }
+}
+
+@media (max-width: 640px) {
+    html {
+        font-size: 14px;
+    }
+
+    .header h1 {
+        width: 80%;
+    }
+
+    .header p {
+        max-width: 90%;
+        /* margin-bottom: 1em; */
+        padding: 12px 0 18px;
+        text-align: center;
+    }
+
+    .header .btn-container {
+        margin-top: -0.8em;
+        display: flex;
+        flex-direction: column;
+        gap: 1.2em;
+        max-width: 100%;
+        width: 100%;
+    }
+
+    .btn {
+        padding: 1em 1.8em;
+        font-size: 1rem;
+    }
+
+    /** section-one  */
+    .track .container {
+        padding: 14.28em 0 4.28em 0;
+        gap: 1.2em;
+    }
+
+    .track p {
+        max-width: 85%;
+    }
+
+    /** section-two  */
+    .features-container {
+        flex-direction: column;
+        align-items: center;
+        gap: 3.2em;
+    }
+
+    .features-container .img-container {
+        max-width: 100%;
+    }
+
+    .features-container .img-container img {
+        width: 90%;
+        display: block;
+        margin: auto;
+    }
+
+    .features-container .text-container {
+        max-width: 85%;
+        margin: auto;
+        gap: 3.2em;
+        text-align: center;
+    }
+
+    .features-container .text-container p {
+        max-width: 90%;
+    }
+
+    /** section-three */
+    .access-clipboard .container {
+        padding: 10.71em 0 4.28em 0;
+    }
+
+    .access-clipboard p {
+        max-width: 90%;
+        /* margin-top: -15px; */
+    }
+
+    .access-clipboard .img-container {
+        margin-top: 3.5em;
+    }
+
+    .access-clipboard .img-container img {
+        max-width: 100%;
+    }
+
+    /** section-four */
+
+    .add-features-container {
+        flex-direction: column;
+        gap: 4rem;
+    }
+
+    .add-feature {
+        width: 300px;
+        gap: 2rem;
+    }
+
+    .add-feature {
+        max-width: 21.4em;
+    }
+
+    .add-feature p {
+        max-width: 90%;
+        text-align: center;
+    }
+
+    /** section-six  */
+    .clipboard {
+        padding: 5.7em 0;
+    }
+
+    .clipboard h2 {
+        width: 80%;
+    }
+
+    .clipboard .btn-container {
+        margin-top: 0.8em;
+        display: flex;
+        flex-direction: column;
+        gap: 1.5em;
+        max-width: 100%;
+        width: 100%;
+    }
+
+    .btn {
+        padding: 1em 1.8em;
+        font-size: 1rem;
+    }
+
+    /** Footer  */
+    .footer {
+        display: flex;
+        flex-direction: column;
+        /* justify-content: center; */
+    }
+
+    .footer .left-side {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        text-align: center;
+        gap: 2.14em;
+        margin-bottom: 1.4em;
+    }
+
+    .footer-links li {
+        display: flex;
+        flex-direction: column;
+        margin-left: 2.2em;
+        margin-bottom: 1em;
+        text-align: center;
+    }
+
+    .footer-links li:nth-child(even) {
+        margin-top: 1.4em;
+    }
+
+    .footer .social-icons {
+        align-items: center;
+    }
+}
