@@ -79,6 +79,9 @@ li {
 
 a {
   text-decoration: none;
+  font-size: 0.8rem;
+  cursor: pointer;
+  font-weight: 400;
 }
 
 /**###### Utility Classes ######  */
@@ -236,18 +239,18 @@ a {
 .footer .left-side {
   display: flex;
   align-items: center;
-  gap: 8.3em;
+  gap: 6.3em;
 }
 
 .footer-links {
   max-width: 85%;
+  margin: auto;
   display: flex;
   flex-wrap: wrap;
   gap: 1.38em;
 }
 
 .footer-links li a {
-  font-size: 0.8rem;
   color: var(--neutral-dark);
   margin-left: 2rem;
   margin-top: 1rem;
@@ -261,7 +264,7 @@ a {
 }
 
 .footer-links li a:hover,
-.right-side .social-icons a img:hover {
+.right-side .social-icons img:hover {
   color: var(--primary-strong);
 }
 
