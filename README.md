@@ -32,8 +32,8 @@ Add a screenshot of your solution.
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL:https://www.frontendmentor.io/solutions/responsive-landing-page-using-css-flexbox-dlklJ1yDUZ
+- Live Site URL:https://uzmakh.github.io/clipboard-landing-page-master/
 
 ## My process
 
