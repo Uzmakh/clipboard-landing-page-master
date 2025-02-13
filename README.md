@@ -38,16 +38,16 @@ Add a screenshot of your solution.
 ## My process
 
 - Completed the semantic markup structure of the page.
-- Set the style.css according to style-guide.md
-  . set the color-theme in root selector
-  . set the html font-size to 18px
-  . import the google-fonts link for the Bai+Jamjuree font for weights 400-regular and 600-semibold
-  . used fontawesome link in html-head for font-icons(No use of fontawesome icon library as all icons are given in images in svg form in images folder.)
-  .reset the browser-default css
-  .set the utility classes for section, container, buttons for spacing and font-sizes.
-  .and set the hover states of the buttons
-  . used flexbox for the layout
-  .used media queries for mobile screen.
+- Set the style.css according to the style-guide.md
+  -> set the color-theme in root selector
+  -> set the html font-size to 18px
+  -> import the google-fonts link for the Bai+Jamjuree font for weights 400-regular and 600-semibold
+  -> used fontawesome link in html-head for font-icons(No use of fontawesome icon library as all icons are given in images in svg form in images folder.)
+  -> reset the browser-default css
+  -> set the utility classes for section, container, buttons for spacing and font-sizes.
+  -> set the hover states of the buttons
+  -> used flexbox for the layout
+  -> used media queries for mobile screen.
 
 ### Built with
 
